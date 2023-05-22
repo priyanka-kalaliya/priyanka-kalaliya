@@ -2,7 +2,7 @@
 
 ### I'm self taught FrontEnd Developer!!
 - 📫 Reach me through!! 
-(https://www.linkedin.com/in/priyanka-kalaliya/)
+![image]({[BadgeURLHere](https://www.linkedin.com/in/priyanka-kalaliya/)})
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on anything
